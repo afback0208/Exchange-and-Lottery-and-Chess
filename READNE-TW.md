@@ -3,7 +3,7 @@
 - **加入我們的交流群組：** [點擊此處](https://t.me/not_delme)
 - **Telegram頻道：** [點擊此處](https://t.me/not_delme)
   
-  - ## [中文繁體](README-TW.md)
+- ## [中文繁體](README-TW.md)
 
 **源代碼的開放僅供學習交流使用，請遵守法律法規。**
 
